@@ -389,7 +389,7 @@ display: none;
        
     }
     .box:hover{
-        width: 300px;
+        width: 100px;
         
     }
     .box:hover .content{
